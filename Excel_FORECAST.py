@@ -25,4 +25,4 @@ def forecast(x, x_values, y_values):
 
 xv = [20, 28, 31, 38, 40]
 yv = [6, 7, 9, 15, 21]
-print(forecast(30, xv, yv))  # should be 10.6
+print(forecast(30, xv, yv))  # should be 10.607253
